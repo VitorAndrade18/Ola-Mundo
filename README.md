@@ -3,4 +3,4 @@ Primeiro repositorio versionado do curso de Git e GitHub
 
 Repositório criado durante uma aula ao vivo!
 
-Linha adicionada dentro do proprio GITHUB
+Linha adicionada dentro do proprio GitHub
